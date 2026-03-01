@@ -1,4 +1,4 @@
-import logo from "../assets/logo.png"
+import logo from "../assets/Logo.png"
 import Illustration from "../assets/Illustration.png"
 
 export default function Wrapper() {
